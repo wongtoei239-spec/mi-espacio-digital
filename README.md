@@ -146,7 +146,7 @@ Finalmente, se revisó que la sección `mensajes.php` cargue los mensajes desde 
 
 El proyecto será subido a un hosting gratuito. Una vez publicado, el enlace activo se colocará aquí:
 
-`Pegar aquí el enlace del hosting`
+`https://miespaciodigital.infinityfreeapp.com/`
 
 ## Mi opinión personal
 
